@@ -82,8 +82,6 @@ After training, the model's performance is visualized through loss and accuracy 
 - **Accuracy Curve**: Shows how the training and validation accuracy change over time.
 
 
-![Training and Validation Loss/Accuracy](path_to_screenshot)
-
 ## Future Improvements
 - Integrate more data augmentation techniques to improve model generalization.
 - Experiment with different optimizers and learning rate schedules.
