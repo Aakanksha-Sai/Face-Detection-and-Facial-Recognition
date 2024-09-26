@@ -1,6 +1,3 @@
-Here's a customized README file based on your code for a **Face Expression Recognition** project:
-
----
 
 # Face Expression Recognition using CNN
 
@@ -95,6 +92,4 @@ After training, the model's performance is visualized through loss and accuracy 
 ## License
 This project is licensed under the MIT License.
 
----
 
-Let me know if you'd like to modify anything or need further details!
